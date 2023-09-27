@@ -10,10 +10,22 @@ WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA_mobile.url = https://www.google.co
 
 ### Title
 panorama_C26892E1_CCB5_6FB3_41B2_7A4A39A76115.label = muskitnas 1
+panorama_D8645BD0_D5D7_989A_41CB_CFBD1108283C.label = muskitnas 10
+panorama_D864E014_D5D7_879A_41C1_4063FB72EDD6.label = muskitnas 11
+panorama_D8642438_D5D7_8F8A_41DA_1D3F9410D355.label = muskitnas 13
+panorama_D8641835_D5D7_879A_41E9_0ED17ED56AC0.label = muskitnas 14
+panorama_D8649CF7_D5D4_7886_41A7_1C52B88BF932.label = muskitnas 15
+panorama_D865F143_D5D4_89FD_41C8_2910C402D017.label = muskitnas 16
+panorama_D86425E1_D5D4_88BA_41B2_AEEA4F796CDE.label = muskitnas 17
+panorama_D86429ED_D5D4_988A_41D6_FF3F2E15A15E.label = muskitnas 18
 panorama_C17454FA_CCBD_2B91_41D1_8C718C67EDBE.label = muskitnas 2
 panorama_C0F7B8ED_CC9F_EFCF_41E4_5C56E5EC28C6.label = muskitnas 3
-panorama_C0F81D69_CC9F_E6F7_41D2_3C3B25B03624.label = muskitnas 4
-panorama_C0F9323A_CC9F_2255_41DA_8D14A8CC74A4.label = muskitnas 5
+panorama_DBBF0D2F_D5D5_9986_41D7_26C7EDE1C3CD.label = muskitnas 4
+panorama_DBF7EE1B_D5D4_7B8E_41E3_0880649D20B1.label = muskitnas 5
+panorama_DA3AFBB8_D5D7_B88A_41D9_D681C46D8A20.label = muskitnas 6
+panorama_D865EFDD_D5D7_B88A_41E4_EC1C74183B44.label = muskitnas 7
+panorama_D864A3E5_D5D7_88BA_41CB_E7757E11BD6F.label = muskitnas 8
+panorama_D86527CE_D5D7_8886_41D4_26759BA89392.label = muskitnas 9
 
 ## Skin
 
